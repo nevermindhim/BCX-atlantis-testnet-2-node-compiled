@@ -1,10 +1,10 @@
 #!/bin/bash
 
-CHAINID="blockx_12345-2"            # Chain ID
+CHAINID="blockx_50-1"            # Chain ID
 MONIKER="My Moniker"                # Moniker of your node
 KEYRING="file"                      # Keyring Backend
-KEY="myKey"                         # key name from which validator will be created
-AMOUNT=140000000bcx                 # Self-delegation amount
+KEY="mykey"                         # key name from which validator will be created
+AMOUNT=10000bcx                 # Self-delegation amount
 COMMISSION_RATE=0.05                # Commission rate
 COMMISSION_MAX_RATE=0.10            # Commission max rate
 COMMISSION_MAX_CHANGE_RATE=0.01     # Commission max change rate
