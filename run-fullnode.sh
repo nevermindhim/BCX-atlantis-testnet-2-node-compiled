@@ -13,7 +13,7 @@ sudo rm -rf $HOME/.blockxd
 cp blockxd.service /etc/systemd/system
 
 # Download blockxd
-curl -LO https://github.com/defi-ventures/blockx-node-public-compiled/releases/download/v10.0.0/blockxd
+curl -LO https://github.com/defi-ventures/BCX-atlantis-testnet-2-node-compiled/releases/download/assets/blockxd
 chmod +x blockxd
 
 # Create /go/bin if not yet present

@@ -24,9 +24,8 @@ It should return go version go1.18 linux/amd64
 
 # How to run a fullnode using Ubuntu 22.04
 ```
-git clone https://github.com/defi-ventures/blockx-node-public-compiled.git
-cd blockx-node-public-compiled
-git checkout Atlantis-Testnet
+git clone https://github.com/defi-ventures/BCX-atlantis-testnet-2-node-compiled
+cd bcx-atlantis-testnet-2-node-compiled
 ./run-fullnode.sh
 ```
 
